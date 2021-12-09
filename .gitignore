@@ -1,0 +1,5 @@
+venv
+*.pyc
+.DS_Store
+.env
+Motor_Vehicle_Collisions_-_Crashes.csv

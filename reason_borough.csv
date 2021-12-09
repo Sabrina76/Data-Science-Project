@@ -1,0 +1,304 @@
+REASON,BOROUGH,COLLISIONS
+Unspecified,Brooklyn,174150
+Unspecified,Queens,125335
+Unspecified,Manhattan,95156
+Unspecified,Bronx,80496
+Driver Inattention/Distraction,Queens,71679
+Driver Inattention/Distraction,Brooklyn,65316
+Driver Inattention/Distraction,Manhattan,60104
+Driver Inattention/Distraction,Bronx,28763
+Failure to Yield Right-of-Way,Queens,28382
+Failure to Yield Right-of-Way,Brooklyn,25808
+Unspecified,Staten Island,21835
+Other Vehicular,Manhattan,17607
+Backing Unsafely,Queens,17211
+Backing Unsafely,Brooklyn,16360
+Failure to Yield Right-of-Way,Manhattan,13445
+Following Too Closely,Brooklyn,12588
+Following Too Closely,Queens,11724
+Passing Too Closely,Brooklyn,10858
+Turning Improperly,Manhattan,10808
+Backing Unsafely,Manhattan,10705
+Driver Inattention/Distraction,Staten Island,10291
+Following Too Closely,Manhattan,9458
+Other Vehicular,Brooklyn,8857
+Passing or Lane Usage Improper,Brooklyn,8789
+Other Vehicular,Bronx,8432
+Failure to Yield Right-of-Way,Bronx,8312
+Fatigued/Drowsy,Manhattan,8154
+Passing or Lane Usage Improper,Manhattan,8124
+Passing or Lane Usage Improper,Queens,8060
+Backing Unsafely,Bronx,8025
+Fatigued/Drowsy,Brooklyn,7615
+Turning Improperly,Brooklyn,7517
+Passing Too Closely,Manhattan,7426
+Passing Too Closely,Queens,7278
+Traffic Control Disregarded,Brooklyn,6747
+Turning Improperly,Queens,6698
+Traffic Control Disregarded,Queens,6677
+Unsafe Lane Changing,Manhattan,6660
+Fatigued/Drowsy,Queens,6276
+Lost Consciousness,Manhattan,6125
+Driver Inexperience,Brooklyn,5683
+Other Vehicular,Queens,5633
+Following Too Closely,Bronx,5518
+Driver Inexperience,Manhattan,5299
+Lost Consciousness,Brooklyn,4939
+Driver Inexperience,Queens,4920
+Passing Too Closely,Bronx,4906
+Prescription Medication,Manhattan,4298
+Turning Improperly,Bronx,4289
+Alcohol Involvement,Brooklyn,4050
+Alcohol Involvement,Queens,4038
+Unsafe Lane Changing,Brooklyn,3760
+Passing or Lane Usage Improper,Bronx,3727
+Unsafe Speed,Brooklyn,3696
+Prescription Medication,Brooklyn,3658
+Unsafe Speed,Queens,3373
+Traffic Control Disregarded,Manhattan,3297
+Pavement Slippery,Queens,3279
+Failure to Yield Right-of-Way,Staten Island,3227
+Oversized Vehicle,Brooklyn,3133
+Traffic Control Disregarded,Bronx,3073
+Pavement Slippery,Brooklyn,3064
+Unsafe Lane Changing,Queens,3041
+Prescription Medication,Queens,3033
+Lost Consciousness,Queens,2987
+Oversized Vehicle,Manhattan,2800
+Driver Inexperience,Bronx,2695
+View Obstructed/Limited,Brooklyn,2672
+Physical Disability,Brooklyn,2594
+Physical Disability,Queens,2574
+Unsafe Lane Changing,Bronx,2514
+Passenger Distraction,Manhattan,2385
+Backing Unsafely,Staten Island,2362
+View Obstructed/Limited,Queens,2345
+Unsafe Speed,Bronx,2335
+Reaction to Uninvolved Vehicle,Brooklyn,2330
+Reaction to Uninvolved Vehicle,Queens,2329
+Fatigued/Drowsy,Bronx,2319
+Outside Car Distraction,Brooklyn,2221
+Alcohol Involvement,Bronx,2159
+Outside Car Distraction,Manhattan,2066
+Following Too Closely,Staten Island,2009
+Alcohol Involvement,Manhattan,1942
+Outside Car Distraction,Queens,1847
+Passenger Distraction,Brooklyn,1819
+Pavement Slippery,Bronx,1718
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Brooklyn,1673
+Aggressive Driving/Road Rage,Brooklyn,1651
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Manhattan,1593
+Oversized Vehicle,Queens,1590
+Reaction to Uninvolved Vehicle,Manhattan,1559
+Pavement Slippery,Manhattan,1538
+View Obstructed/Limited,Manhattan,1533
+View Obstructed/Limited,Bronx,1518
+Physical Disability,Manhattan,1438
+Prescription Medication,Bronx,1410
+Other Vehicular,Staten Island,1282
+Unsafe Speed,Manhattan,1275
+Brakes Defective,Brooklyn,1273
+Reaction to Uninvolved Vehicle,Bronx,1209
+Lost Consciousness,Bronx,1203
+Aggressive Driving/Road Rage,Manhattan,1199
+Aggressive Driving/Road Rage,Queens,1181
+Fatigued/Drowsy,Staten Island,1148
+Turning Improperly,Staten Island,1075
+Aggressive Driving/Road Rage,Bronx,1067
+Illness,Manhattan,1053
+Oversized Vehicle,Bronx,1014
+Brakes Defective,Queens,990
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Bronx,964
+Fell Asleep,Brooklyn,959
+Fell Asleep,Queens,951
+Pavement Slippery,Staten Island,950
+Outside Car Distraction,Bronx,938
+Passenger Distraction,Queens,923
+Traffic Control Disregarded,Staten Island,885
+Passenger Distraction,Bronx,830
+Glare,Queens,807
+Driver Inexperience,Staten Island,798
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Queens,790
+Passing or Lane Usage Improper,Staten Island,755
+Physical Disability,Bronx,731
+Passing Too Closely,Staten Island,731
+Alcohol Involvement,Staten Island,718
+Glare,Brooklyn,698
+Brakes Defective,Bronx,694
+Brakes Defective,Manhattan,647
+Other Electronic Device,Manhattan,634
+Obstruction/Debris,Manhattan,623
+Failure to Keep Right,Brooklyn,620
+Failure to Keep Right,Queens,610
+Unsafe Speed,Staten Island,594
+Obstruction/Debris,Brooklyn,592
+Steering Failure,Brooklyn,532
+Other Electronic Device,Brooklyn,520
+Glare,Bronx,486
+Steering Failure,Queens,471
+Obstruction/Debris,Queens,460
+Pavement Defective,Brooklyn,451
+Reaction to Uninvolved Vehicle,Staten Island,446
+Prescription Medication,Staten Island,429
+Unsafe Lane Changing,Staten Island,418
+Fell Asleep,Bronx,413
+Illness,Brooklyn,413
+Failure to Keep Right,Manhattan,379
+Fell Asleep,Manhattan,368
+Tire Failure/Inadequate,Queens,353
+Outside Car Distraction,Staten Island,336
+Reaction to Other Uninvolved Vehicle,Manhattan,324
+Pavement Defective,Queens,318
+Reaction to Other Uninvolved Vehicle,Brooklyn,317
+Other Electronic Device,Queens,314
+Obstruction/Debris,Bronx,314
+View Obstructed/Limited,Staten Island,313
+Lost Consciousness,Staten Island,305
+Pavement Defective,Manhattan,303
+Tire Failure/Inadequate,Brooklyn,288
+Driverless/Runaway Vehicle,Brooklyn,284
+Reaction to Other Uninvolved Vehicle,Queens,282
+Physical Disability,Staten Island,280
+Glare,Manhattan,277
+Brakes Defective,Staten Island,266
+Illnes,Brooklyn,264
+Animals Action,Queens,250
+Steering Failure,Bronx,247
+Failure to Keep Right,Bronx,246
+Other Electronic Device,Bronx,241
+Illnes,Queens,222
+Accelerator Defective,Brooklyn,220
+Lane Marking Improper/Inadequate,Manhattan,217
+Glare,Staten Island,217
+Illness,Queens,216
+Animals Action,Staten Island,206
+Animals Action,Brooklyn,201
+Pavement Defective,Bronx,193
+Aggressive Driving/Road Rage,Staten Island,193
+Accelerator Defective,Queens,190
+Steering Failure,Manhattan,182
+Traffic Control Device Improper/Non-Working,Brooklyn,174
+Oversized Vehicle,Staten Island,172
+Driverless/Runaway Vehicle,Bronx,169
+Driverless/Runaway Vehicle,Queens,165
+Illness,Bronx,164
+Traffic Control Device Improper/Non-Working,Queens,160
+Tire Failure/Inadequate,Bronx,148
+Fell Asleep,Staten Island,148
+Failure to Keep Right,Staten Island,147
+Illnes,Bronx,137
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,Staten Island,129
+Lane Marking Improper/Inadequate,Brooklyn,126
+Drugs (illegal),Brooklyn,125
+Animals Action,Bronx,122
+Accelerator Defective,Bronx,118
+Traffic Control Device Improper/Non-Working,Manhattan,117
+Lane Marking Improper/Inadequate,Queens,117
+Obstruction/Debris,Staten Island,116
+Tire Failure/Inadequate,Manhattan,116
+Steering Failure,Staten Island,115
+Reaction to Other Uninvolved Vehicle,Bronx,112
+Driverless/Runaway Vehicle,Manhattan,111
+Illnes,Manhattan,108
+Accelerator Defective,Manhattan,107
+Passenger Distraction,Staten Island,105
+Drugs (Illegal),Brooklyn,93
+Drugs (illegal),Queens,92
+Drugs (illegal),Bronx,88
+Lane Marking Improper/Inadequate,Bronx,81
+Cell Phone (hand-Held),Brooklyn,76
+Drugs (Illegal),Queens,76
+Drugs (Illegal),Manhattan,74
+Animals Action,Manhattan,74
+Traffic Control Device Improper/Non-Working,Bronx,70
+Tire Failure/Inadequate,Staten Island,69
+Cell Phone (hand-Held),Bronx,66
+Cell Phone (hands-free),Manhattan,63
+Illnes,Staten Island,60
+Pavement Defective,Staten Island,59
+Cell Phone (hands-free),Brooklyn,58
+Cell Phone (hand-Held),Queens,57
+Other Electronic Device,Staten Island,56
+Drugs (Illegal),Bronx,55
+Drugs (illegal),Manhattan,53
+Drugs (illegal),Staten Island,53
+Cell Phone (hand-Held),Manhattan,46
+Accelerator Defective,Staten Island,44
+Other Lighting Defects,Brooklyn,43
+Tow Hitch Defective,Brooklyn,41
+Tow Hitch Defective,Queens,38
+Reaction to Other Uninvolved Vehicle,Staten Island,38
+Headlights Defective,Brooklyn,36
+Cell Phone (hands-free),Queens,34
+Tinted Windows,Brooklyn,34
+Driverless/Runaway Vehicle,Staten Island,34
+Other Lighting Defects,Queens,31
+Tow Hitch Defective,Manhattan,31
+Illness,Staten Island,30
+Vehicle Vandalism,Brooklyn,30
+80,Queens,29
+Headlights Defective,Queens,27
+Lane Marking Improper/Inadequate,Staten Island,26
+Traffic Control Device Improper/Non-Working,Staten Island,25
+Eating or Drinking,Brooklyn,24
+Drugs (Illegal),Staten Island,22
+Cell Phone (hand-held),Brooklyn,21
+Tinted Windows,Bronx,20
+Tow Hitch Defective,Bronx,20
+Using On Board Navigation Device,Bronx,20
+80,Brooklyn,19
+Headlights Defective,Manhattan,19
+Windshield Inadequate,Brooklyn,17
+Vehicle Vandalism,Bronx,17
+Cell Phone (hands-free),Bronx,16
+Using On Board Navigation Device,Brooklyn,16
+Cell Phone (hand-held),Manhattan,15
+Vehicle Vandalism,Queens,15
+Other Lighting Defects,Manhattan,15
+Using On Board Navigation Device,Queens,14
+Tinted Windows,Manhattan,14
+Shoulders Defective/Improper,Queens,14
+Shoulders Defective/Improper,Manhattan,14
+Eating or Drinking,Queens,14
+Other Lighting Defects,Bronx,13
+Eating or Drinking,Bronx,13
+Cell Phone (hand-Held),Staten Island,13
+Tinted Windows,Queens,12
+80,Bronx,12
+Vehicle Vandalism,Manhattan,12
+Shoulders Defective/Improper,Bronx,12
+Windshield Inadequate,Queens,11
+Windshield Inadequate,Manhattan,11
+Cell Phone (hand-held),Queens,11
+Using On Board Navigation Device,Manhattan,9
+80,Manhattan,9
+Tow Hitch Defective,Staten Island,9
+Cell Phone (hand-held),Bronx,8
+Shoulders Defective/Improper,Brooklyn,8
+Headlights Defective,Bronx,8
+Cell Phone (hands-free),Staten Island,7
+Windshield Inadequate,Bronx,7
+Eating or Drinking,Manhattan,6
+Texting,Brooklyn,6
+Texting,Manhattan,5
+Texting,Queens,5
+Other Lighting Defects,Staten Island,5
+Eating or Drinking,Staten Island,4
+Listening/Using Headphones,Bronx,4
+Tinted Windows,Staten Island,4
+1,Brooklyn,3
+Using On Board Navigation Device,Staten Island,3
+Texting,Staten Island,3
+Shoulders Defective/Improper,Staten Island,3
+Listening/Using Headphones,Brooklyn,3
+Texting,Bronx,2
+Listening/Using Headphones,Queens,2
+Headlights Defective,Staten Island,2
+1,Staten Island,2
+1,Queens,2
+Vehicle Vandalism,Staten Island,1
+1,Manhattan,1
+Listening/Using Headphones,Manhattan,1
+Cell Phone (hand-held),Staten Island,1
+80,Staten Island,1
+Windshield Inadequate,Staten Island,1
